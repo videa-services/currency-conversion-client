@@ -17,8 +17,7 @@ public class DollarToEuroMain {
 		
 		CurrencyConverter currencyConverter = new CurrencyConverter();
 		
-		/* TODO Replace value zero (0.00) by found value from feature branch */
-		String valueInEuro = currencyConverter.convertToEuro(Currency.USD, "0.00");
+		String valueInEuro = currencyConverter.convertToEuro(Currency.USD, "7.15");
 		
 		System.out.println();
 		System.out.println(valueInEuro + " Euro");
