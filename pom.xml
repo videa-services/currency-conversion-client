@@ -21,12 +21,6 @@
 			<version>4.12</version>
 		</dependency>
 
-		<dependency>
-			<groupId>de.awacademy</groupId>
-			<artifactId>currency-conversion-service</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-
 	</dependencies>
 
 	<build>
